@@ -1,0 +1,32 @@
+#left {
+    text-align: left;
+}
+.red {
+   color: red;
+   text-align:justify;
+   font-size: 20px;
+}
+
+#middle {
+    text-align: center;
+}
+.green {
+   color: green;
+   text-align:justify;
+   font-size: 20px;
+}
+
+#right {
+    text-align: right;
+}
+.blue {
+   color: blue;
+   text-align:justify;
+   font-size: 20px;
+}
+
+p {
+  color: black;
+  text-align:justify;
+  font-size: 20px;
+}
