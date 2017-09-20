@@ -1,0 +1,16 @@
+body {
+  color: white;
+  font-family: Impact;
+  font-style: italic;
+  font-variant: small-caps;
+  font-size: 25pt;
+  font-weight: bold;
+  word-spacing: 5pt;
+  letter-spacing: 2pt;
+  text-decoration: underline;
+  text-transform: uppercase;          /* capitalize, uppercase, lowercase */
+  //text-align: center;
+  text-indent: 50pt;
+  line-height: 50pt;
+  text-shadow: 0px 0px 1px black, 0px 0px 1px black, 0px 0px 1px black;
+}
