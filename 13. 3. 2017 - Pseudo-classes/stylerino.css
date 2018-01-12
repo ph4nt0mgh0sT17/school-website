@@ -1,0 +1,24 @@
+a:link {
+  color: darkblue;
+  text-decoration: none;
+}
+
+a:visited {  /* Odkaz byl již zmáčknut */
+  color: red;
+  text-decoration: none;
+}
+
+a:active {      /* Zmáčknutí odkazu... */
+  color: black;
+  text-decoration: underline;
+}
+
+a:hover {   /* Změna vyvolaná najetím myši na odkazt */
+  color: olive;
+  text-decoration: underline;
+}
+
+a:focus {                    /* Odkaz byl zaměřen pomocí klávesy TAB */
+  color: violet;
+  text-decoration: underline;
+}

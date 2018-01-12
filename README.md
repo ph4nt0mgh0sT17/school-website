@@ -1,2 +1,3 @@
-# school-website
-Coding websites - HTML, XHTML, PHP, etc.
+## Welcome to Website Maturita
+
+You can improve your knowledge here.
