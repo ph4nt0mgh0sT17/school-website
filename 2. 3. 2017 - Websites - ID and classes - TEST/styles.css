@@ -1,0 +1,44 @@
+body {
+    background-color: white;
+}
+#left {
+    position: absolute;
+    left: 150px;
+    top: 150px;
+    width: 300px;
+}
+.red {
+   color: red;
+   text-align:justify;
+   font-size: 20px;
+}
+
+#middle {
+    position: absolute;
+    left: 600px;
+    top: 150px;
+    width: 300px;
+}
+.green {
+   color: green;
+   text-align:justify;
+   font-size: 20px;
+}
+
+#right {
+    position: absolute;
+    left: 1100px;
+    top: 150px;
+    width: 300px;
+}
+.blue {
+   color: blue;
+   text-align:justify;
+   font-size: 20px;
+}
+
+p {
+  color: black;
+  text-align:justify;
+  font-size: 20px;
+}

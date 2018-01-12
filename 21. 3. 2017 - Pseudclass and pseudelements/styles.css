@@ -1,0 +1,32 @@
+#letter::first-letter {  
+    font-size: 300%;             /* Zvětší první písmeno o 300% k původnímu.... */
+    color: blue ;     /* Barva písmenka */
+}
+
+body {
+  background: rgb(198,198,198);   /* barva pozadí */
+}
+
+#letter {
+  color: red;
+}
+
+p {
+  color: yellow;
+}
+
+
+a:link {       /* nestisknutý link */
+    color: blue;
+}
+
+
+
+a:visited {        /* navštívený link */
+    color: red;
+}
+
+a:hover {         /* link po přejetí myše */
+    color: black;
+    text-decoration: none;
+}
