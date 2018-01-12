@@ -1,0 +1,32 @@
+/* CSS Document */
+
+p {
+  margin-top: 3%; /* Velikost horního okraje */
+  margin-right: 10%;
+margin-left: 10%; /* Velikost pravého okraje */
+  margin-bottom: 3%; /* Velikost spodního okraje */
+}
+
+
+td {
+  padding-top: 5%;
+  padding-bottom: 5%;
+  padding-left: 3%;
+  padding-right: 3%;
+  text-align: left;
+}
+
+table {
+  border-top-width: 5px;
+  border-right-width: 5px;
+  border-bottom-width: 5px;
+  border-left-width: 5px;
+  border-width: 2px;
+  border-style: solid;
+  border-top-color: red;
+  border-right-color: yellow;
+  border-bottom-color: green;
+  border-left-color: blue;
+  width: 40%;
+  height: 300px;
+}
